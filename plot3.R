@@ -1,4 +1,4 @@
-# Global active power histogram for 2007-02-01 and 2007-02-02
+# Energy sub metering 1 to 3 graph for 2007-02-01 and 2007-02-02
 
 data <- read.csv( "../household_power_consumption.txt", na.strings="?", sep=";" )
 
